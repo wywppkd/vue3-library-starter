@@ -19,14 +19,14 @@ pnpm run build # 构建
 ## 引入组件库示例
 
 ```ts
-import { MyInput } from 'fe-library-template';
-import 'fe-library-template/dist/style.css';
+import { MyInput } from 'vue3-library-starter';
+import 'vue3-library-starter/dist/style.css';
 ```
 
 ```xml
 <script setup lang="ts">
 import { ref } from "vue";
-import { MyInput } from "fe-library-template"
+import { MyInput } from "vue3-library-starter"
 
 const count = ref<number>(0)
 
