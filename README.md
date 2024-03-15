@@ -1,10 +1,10 @@
 # 组件库模板
 
-- [x] 基于 Vite `Library` 模式
+- [x] 基于 Vite `Library` 模式搭建
 - [x] 支持 `SPA` 模式下本地调试
 - [x] 支持 `Storybook` 本地调试 + 文档生成
 - [x] 支持构建 ESM、CJS 模块
-- [x] 借助 `vite-plugin-dts` 支持自动生成 Typescript 类型文件
+- [x] 借助 `vite-plugin-dts` 实现自动生成 Typescript 类型声明文件
 - [x] 支持 `husky + eslint + prettier` 控制代码质量
 
 ## Project Setup
